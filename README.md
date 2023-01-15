@@ -5,3 +5,4 @@
 # Labs
  - lab1 - "Database design and familiarization with basic PostgreSQL DBMS operations"
  - lab2 - "Creation of a database application focused on interaction with the PostgreSQL DBMS"
+ - lab3 - "Tools for optimizing the work of the PostgreSQL DBMS"
